@@ -3,7 +3,7 @@ import ReactStars from 'react-rating-stars-component';
 
 import restaurante from '../../assets/restaurante-fake.png';
 
-import {Restaurant, RestaurantInfo, Title, Address, RestaurantPhoto } from './styles';
+import {Restaurant, RestaurantInfo, Title, Address, RestaurantPhoto} from './styles';
 
 const RestaurantCard = () =>
   <Restaurant>
